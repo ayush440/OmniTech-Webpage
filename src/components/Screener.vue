@@ -11,7 +11,8 @@
   <Globe />
   <Cards />
   <!-- <Modal /> -->
-  <!-- <Report /> -->
+  <Report />
+  <Invoice />
   <Features id="features" />
   <Why id="why" />
 
@@ -33,6 +34,6 @@ import StatsCard from "./StatsCard.vue";
 import StatsCardMobile from "./StatsCardMobile.vue";// Import StatsCard Component
 import Modal from "./Modal.vue";
 import Report from "./Report.vue";
-
+import Invoice from "./Invoice.vue";
 
 </script>
